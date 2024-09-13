@@ -1,0 +1,8 @@
+name: Anti_Fade
+version: '1.0-SNAPSHOT'
+main: asdanjer.anti_Fade.Anti_Fade
+api-version: '1.20'
+commands:
+  repeatconnections:
+    description: Toggles receiving repeated Connect and Disconnect messages
+    usage: /repeatconnections
